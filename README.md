@@ -1,4 +1,4 @@
-# 🌟 Hoş Geldiniz! Ben ParSher 🌟
+# 🌟 Hoş Geldiniz! Ben Rasdiant 🌟
 
 [Discord Profilim](https://discord.com/widget?id=792695738693451796)
 
