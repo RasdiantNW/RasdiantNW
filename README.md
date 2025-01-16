@@ -8,5 +8,5 @@
 - 💻 Yazılım Tutkunu  
 - 🎵 Minecraft Modlaması
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,au,ai,pe,pr,blender,bootstrap,c,cs,gitlab,unity,vscode,visualstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,au,ai,ps,pr,blender,bootstrap,c,cs,gitlab,unity,vscode,visualstudio,)](https://skillicons.dev)
 Teşekkürler! Profilimi incelediğiniz için çok mutluyum. 😊
